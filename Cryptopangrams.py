@@ -1,6 +1,6 @@
 import math
 
-
+# Function for Calculation
 def cal(nos):
     alpha = []
     for i in range(len(nos)):
