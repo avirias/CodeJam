@@ -28,3 +28,5 @@ for i in range(times):
 for i in range(times):
     nos = [int(x) for x in ap[i].split()]
     print("Case #" + str(i + 1) + ": " + cal(nos))
+
+    # good idea and futher changes can be made to make it better
